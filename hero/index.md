@@ -1,3 +1,8 @@
+---
+title: lol hero page
+author: fkpwolf
+---
+
 # Welcome to hero Page!
 
 .  Ahri <https://leagueoflegends.fandom.com/zh/wiki/Ahri>
