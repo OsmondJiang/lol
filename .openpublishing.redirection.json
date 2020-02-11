@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "hero/index.md",
+      "redirect_url": "/archive1/archive1/index",
+      "redirect_document_id": false
+    }
+  ]
+}
