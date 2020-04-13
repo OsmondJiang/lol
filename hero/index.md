@@ -1,7 +1,6 @@
 ---
 title: lol hero page
 author: fkpwolf
-description: a
 ---
 
 # Welcome to hero Page!
