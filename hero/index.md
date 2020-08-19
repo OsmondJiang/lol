@@ -17,3 +17,7 @@ Champions in battle
 
 
 ![维克托](./icon.png)
+
+
+List items of heros:
+[!INCLUDE [hero item](../items/index.md)]
