@@ -21,3 +21,7 @@ Champions in battle
 
 List items of heros:
 [!INCLUDE [hero item](../items/index.md)]
+
+[An external link has view parameter](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all)
+
+[An internal link has view parameter](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)
