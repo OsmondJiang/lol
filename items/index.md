@@ -6,4 +6,4 @@ hi this is a long sample of a blacklist which should not be used. This member is
 
 hi this is a sample of a blacklist which should not be used.
 
-github/tree/master is valid
+github/tree/master/new.md file is valid
